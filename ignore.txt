@@ -1,19 +1,30 @@
 ✈
-crossfit
-iOS 7 OR iOS7
-vegan OR vegetarian
-movember
-obama
+$AAPL
+bowl
 BREAKING
-IPO OR $AAPL
-I think apple
-sxsw
 breaking bad
-game of thrones
-Hacker News
-github is down
-paleo
-miley cyrus
-election
+crossfit
+current status
 daft punk
+election
+I think apple
+iOS\s?7
+IPO
+FavstarOfTheDay
+football
+game of thrones
+github is down
+Hacker News
+miley cyrus
+movember
+NFL
+NHL
+nodebot
+nodecopter
+obama
+paleo
+picked your tweet
+sxsw
+vegan
+vegetarian
 yolo
