@@ -1,0 +1,4 @@
+ingorelist
+==========
+
+Things worth ignoring.
