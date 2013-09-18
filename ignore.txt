@@ -1,11 +1,22 @@
-crossfit
-iOS 7 OR iOS7
-vegan OR vegetarian
-movember
-obama
+$AAPL
+bowl
 BREAKING
-IPO OR $AAPL 
-I think apple
-sxsw
 breaking bad
+crossfit
+current status
+iOS\s?7
+IPO
+FavstarOfTheDay
+firefox\s?OS
+football
 game of thrones
+movember
+NFL
+NHL
+nodebot
+nodecopter
+obama
+picked your tweet
+sxsw
+vegan
+vegetarian
