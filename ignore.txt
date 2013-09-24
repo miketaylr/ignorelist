@@ -17,7 +17,9 @@ game of thrones
 github is down
 Hacker News
 miley cyrus
+monad
 movember
+netmag
 NFL
 NHL
 nodebot
