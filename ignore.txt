@@ -15,6 +15,7 @@ FavstarOfTheDay
 football
 game of thrones
 github is down
+google designer
 Hacker News
 miley cyrus
 monad
