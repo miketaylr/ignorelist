@@ -22,6 +22,7 @@ gmail is down
 twitter is down
 google bus
 google designer
+grooveshark
 Hacker News
 miley cyrus
 monad
@@ -35,6 +36,7 @@ obama
 OH:*
 paleo
 picked your tweet
+rdio
 superb owl
 sxsw
 typescript
