@@ -28,6 +28,7 @@ NHL
 nodebot
 nodecopter
 obama
+OH:*
 paleo
 picked your tweet
 pronoun
