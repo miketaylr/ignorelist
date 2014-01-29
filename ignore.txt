@@ -4,6 +4,7 @@ blackberry
 bowl
 BREAKING
 breaking bad
+cronut
 crossfit
 current status
 daft punk
@@ -17,6 +18,7 @@ FavstarOfTheDay
 football
 game of thrones
 github is down
+google bus
 google designer
 Hacker News
 miley cyrus
@@ -34,6 +36,8 @@ picked your tweet
 pronoun
 superb owl
 sxsw
+typescript
+uber
 vegan
 vegetarian
 yolo
