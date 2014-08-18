@@ -18,6 +18,7 @@ election
 Emojli
 Facebook
 I think apple
+ice bucket challenge
 iOS\s?7
 IPO
 FavstarOfTheDay
