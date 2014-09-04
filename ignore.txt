@@ -30,6 +30,7 @@ twitter is down
 google bus
 google designer
 grooveshark
+gruber
 Hacker News
 miley cyrus
 monad
@@ -56,5 +57,5 @@ vegan
 vegetarian
 yolo
 
-@iamdevloper 
+@iamdevloper
 @miketaylr
