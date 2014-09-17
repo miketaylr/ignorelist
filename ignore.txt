@@ -19,7 +19,7 @@ Emojli
 Facebook
 I think apple
 ice bucket challenge
-iOS\s?7
+iOS
 IPO
 FavstarOfTheDay
 football
@@ -50,6 +50,7 @@ rdio
 superb owl
 sxsw
 typescript
+u2
 uber
 untappd
 untp.it
