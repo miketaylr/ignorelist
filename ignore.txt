@@ -54,6 +54,7 @@ picked your tweet
 protip:
 rdio
 sjw
+semicolon
 superb owl
 sxsw
 typescript
