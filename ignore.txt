@@ -69,6 +69,7 @@ untappd
 untp.it
 vegan
 vegetarian
+viral
 yolo
 
 @iamdevloper
