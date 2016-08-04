@@ -63,6 +63,7 @@ sjw
 semicolon
 superb owl
 sxsw
+Trump
 typescript
 u2
 uber
