@@ -1,4 +1,4 @@
-ingorelist
+ignorelist
 ==========
 
 Things worth ignoring.
